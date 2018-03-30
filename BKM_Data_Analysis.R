@@ -20,7 +20,7 @@ cleaned_data <- delete.na(U_data)
 cleaned_data <- subset(cleaned_data, cleaned_data[,3]!="100")
 
 
-#----YOU DONT NEED TO RUN THE CODES BELOW. I'VE ALREADY LOAD THE LAST CLEANED DATA-----###
+#----YOU DONT NEED TO RUN THE CODES ABOVE. I'VE ALREADY LOAD THE LAST CLEANED DATA-----###
 
 
 #Matching 2 sensors according to quaternions
